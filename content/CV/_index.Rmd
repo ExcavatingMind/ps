@@ -1,0 +1,6 @@
+---
+date: "2015-01-01"
+layout: CV
+summary: list of experience
+title: my CV
+---

@@ -1,0 +1,6 @@
+---
+date: "2015-01-01"
+layout: links
+summary: A list of my social media links
+title: Social media links
+---

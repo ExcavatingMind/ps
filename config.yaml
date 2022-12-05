@@ -1,13 +1,13 @@
 baseURL: https://www.example.com
-languageCode: en-us
-title: My Digital Garden
+languageCode: en-uk
+title: 10194591
 theme: hugo-digital-garden-theme
-copyright: Nigalya Ponya ©
+copyright: 10194591 ©
 params:
-  description: Red panda living in the eastern Himalayas.
+  description: Personal professional site.
   googleAnalytics: ''
-  initials: NP
-  name: Nigalya Ponya
+  initials: E-M
+  name: 10194591
   social:
     - icon: fab fa-twitter
       link: '#'
@@ -35,6 +35,12 @@ menu:
     - name: About
       url: /about/
       weight: 4
+    - name: CV
+      url: /CV/
+      weight: 5
+    - name: social media links
+      url: /links/
+      weight: 6
 taxonomies:
   garden_tags: garden_tags
   library_tags: library_tags
